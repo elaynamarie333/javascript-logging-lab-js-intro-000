@@ -1,2 +1,2 @@
 console.error ("HALP!")
-console.erroe ("hi there friend")
+console.log ("hi there friend")
